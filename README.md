@@ -1,3 +1,7 @@
+
+## Open the Project
+1. Open the project folder in your VS Code.
+
 ## Run the Project
 1. Open the terminal by pressing `Ctrl + J` and run the following commands:
     `npm install` This command will install the necessary dependencies.
